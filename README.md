@@ -20,7 +20,7 @@ Current list of Couriers and Latest Surcharge Are List Below.
 | Couriers Please |  | 25.2% | 10.5% | Monthly |
 | Sendle | Myfastway | 6.85% |  | Monthly |
 | Border Express |  | ? |  | Monthly |
-| Direct Freight|  | ? |  | Monthly |
+| Direct Freight|  | 21.6 |  | Monthly |
 | Hunter Express |  | 20% |  | Monthly |
 | Allied Express | Sameday Local | 15.9% |  | Monthly |
 | Allied Express | Interstate | 21.9% |  | Monthly |
