@@ -3,6 +3,9 @@
 ###### Update on 2022-09-02 (AEST)
 
 This Json File include Australia major couriers "Fuel Levy Surcharge" Precentage. 
+## How to use 
+Plese use LINK directly 
+https://raw.githubusercontent.com/parceltube/australia-couriers-fuel-levy/main/fuel-levy.json
 
 For **ANY** recommendations please open in the issues
 
