@@ -277,7 +277,41 @@ $array=array("2022"=>
                 array("company" => "border_express","product" => "border_express","fuel" => "NA","extra" => "0"),
                 array("company" => "direct_freight","product" => "direct_freight","fuel" => "NA","extra" => "0")
             )            
-        )
+        ),
+  "2024" => array(
+  "01" =>array(
+                array("company" => "australia_post","product" => "australia_post","fuel" => "11.7","extra" => "0"),
+                array("company" => "australia_post","product" => "startrack","fuel" => "11.7","extra" => "0"),
+                array("company" => "aramex","product" => "myfastway","fuel" => "11.9","extra" => "0"),
+                array("company" => "toll","product" => "priority","fuel" => "10.47","extra" => "0"),
+                array("company" => "toll","product" => "ipec","fuel" => "9.36","extra" => "0"),
+                array("company" => "toll","product" => "pallets","fuel" => "14.9","extra" => "0"),
+                //array("company" => "toll","product" => "air_express","fuel" => "14.15","extra" => "0"),
+                array("company" => "couriers_please","product" => "couriers_please","fuel" => "30.8","extra" => "11.7"),
+                array("company" => "sendle","product" => "sendle","fuel" => "11.5","extra" => "0"),
+                array("company" => "hunter_express","product" => "hunter_express","fuel" => "20","extra" => "0"),
+                array("company" => "allied_express","product" => "sameday_local","fuel" => "18.9","extra" => "21.1"),
+                array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
+                array("company" => "border_express","product" => "border_express","fuel" => "23","extra" => "0"),
+                array("company" => "direct_freight","product" => "direct_freight","fuel" => "22","extra" => "0"),
+            ),
+  "02" =>array(
+                array("company" => "australia_post","product" => "australia_post","fuel" => "9.7","extra" => "0"),
+                array("company" => "australia_post","product" => "startrack","fuel" => "9.7","extra" => "0"),
+                array("company" => "aramex","product" => "myfastway","fuel" => "10.6","extra" => "0"),
+                array("company" => "toll","product" => "priority","fuel" => "33.19","extra" => "0"),
+                array("company" => "toll","product" => "ipec","fuel" => "19.5","extra" => "0"),
+                array("company" => "toll","product" => "pallets","fuel" => "26.32","extra" => "0"),
+                //array("company" => "toll","product" => "air_express","fuel" => "14.15","extra" => "0"),
+                array("company" => "couriers_please","product" => "couriers_please","fuel" => "25.2","extra" => "11.5"),
+                array("company" => "sendle","product" => "sendle","fuel" => "7.05","extra" => "0"),
+                array("company" => "hunter_express","product" => "hunter_express","fuel" => "20","extra" => "0"),
+                array("company" => "allied_express","product" => "sameday_local","fuel" => "18.9","extra" => "21.1"),
+                array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
+                array("company" => "border_express","product" => "border_express","fuel" => "23","extra" => "0"),
+                array("company" => "direct_freight","product" => "direct_freight","fuel" => "22","extra" => "0"),
+            )			
+  )		
 
 );
 
