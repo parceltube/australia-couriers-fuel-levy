@@ -137,7 +137,7 @@ $array=array("2024" => array(
                 array("company" => "toll","product" => "pallets","fuel" => "15.2","extra" => "0"),
                 array("company" => "oc","product" => "ocep","fuel" => "0","extra" => "0"),
                 array("company" => "couriers_please","product" => "couriers_please","fuel" => "29.5","extra" => "9"),
-                array("company" => "sendle","product" => "sendle","fuel" => "9","extra" => "0"),
+                array("company" => "sendle","product" => "sendle","fuel" => "8.8","extra" => "0"),
                 array("company" => "hunter_express","product" => "hunter_express","fuel" => "20","extra" => "0"),
                 array("company" => "allied_express","product" => "sameday_local","fuel" => "18.9","extra" => "21.1"),
                 array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
@@ -152,8 +152,8 @@ $array=array("2024" => array(
                array("company" => "toll","product" => "ipec","fuel" => "8.71","extra" => "0"),
                array("company" => "toll","product" => "pallets","fuel" => "13.87","extra" => "0"),
                array("company" => "oc","product" => "ocep","fuel" => "0","extra" => "0"),
-               array("company" => "couriers_please","product" => "couriers_please","fuel" => "28.8","extra" => "8.7"),
-               array("company" => "sendle","product" => "sendle","fuel" => "8.7","extra" => "0"),
+               array("company" => "couriers_please","product" => "couriers_please","fuel" => "28.7","extra" => "9.7"),
+               array("company" => "sendle","product" => "sendle","fuel" => "8.8","extra" => "0"),
                array("company" => "hunter_express","product" => "hunter_express","fuel" => "20","extra" => "0"),
                array("company" => "allied_express","product" => "sameday_local","fuel" => "18.9","extra" => "21.1"),
                array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
@@ -162,9 +162,25 @@ $array=array("2024" => array(
    )	
    ,
      "10" =>array(
-                array("company" => "australia_post","product" => "australia_post","fuel" => "6.9","ext => "0"),
+                array("company" => "australia_post","product" => "australia_post","fuel" => "6.9","extra" => "0"),
                 array("company" => "australia_post","product" => "startrack","fuel" => "6.9","extra" => "0"),
                 array("company" => "aramex","product" => "myfastway","fuel" => "8.6","extra" => "0"),
+                array("company" => "toll","product" => "priority","fuel" => "9.42","extra" => "0"),
+                array("company" => "toll","product" => "ipec","fuel" => "8.71","extra" => "0"),
+                array("company" => "toll","product" => "pallets","fuel" => "13.87","extra" => "0"),
+                array("company" => "oc","product" => "ocep","fuel" => "0","extra" => "0"),
+                array("company" => "couriers_please","product" => "couriers_please","fuel" => "28.1","extra" => "8.3"),
+                array("company" => "sendle","product" => "sendle","fuel" => "8.7","extra" => "0"),
+                array("company" => "hunter_express","product" => "hunter_express","fuel" => "19","extra" => "0"),
+                array("company" => "allied_express","product" => "sameday_local","fuel" => "18.9","extra" => "21.1"),
+                array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
+                array("company" => "border_express","product" => "border_express","fuel" => "23","extra" => "0"),
+                array("company" => "direct_freight","product" => "direct_freight","fuel" => "22","extra" => "0"),
+    ),		
+ "11" =>array(
+                array("company" => "australia_post","product" => "australia_post","fuel" => "6.4","extra" => "0"),
+                array("company" => "australia_post","product" => "startrack","fuel" => "6.4","extra" => "0"),
+                array("company" => "aramex","product" => "myfastway","fuel" => "8.1","extra" => "0"),
                 array("company" => "toll","product" => "priority","fuel" => "10.82","extra" => "0"),
                 array("company" => "toll","product" => "ipec","fuel" => "10.4","extra" => "0"),
                 array("company" => "toll","product" => "pallets","fuel" => "16.56","extra" => "0"),
@@ -177,7 +193,7 @@ $array=array("2024" => array(
                 array("company" => "border_express","product" => "border_express","fuel" => "23","extra" => "0"),
                 array("company" => "direct_freight","product" => "direct_freight","fuel" => "22","extra" => "0"),
     )		
-  )		
+  )	  
 
 );
 
