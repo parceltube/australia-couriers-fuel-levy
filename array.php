@@ -176,7 +176,10 @@ $array=array("2024" => array(
                 array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
                 array("company" => "border_express","product" => "border_express","fuel" => "23","extra" => "0"),
                 array("company" => "direct_freight","product" => "direct_freight","fuel" => "22","extra" => "0"),
-    ),		
+                array("company" => "pfl","product" => "pfl","fuel" => "4.3","extra" => "0")
+                )
+
+
  "11" =>array(
                 array("company" => "australia_post","product" => "australia_post","fuel" => "6.4","extra" => "0"),
                 array("company" => "australia_post","product" => "startrack","fuel" => "6.4","extra" => "0"),
@@ -192,6 +195,7 @@ $array=array("2024" => array(
                 array("company" => "allied_express","product" => "interstate","fuel" => "27.9","extra" => "0"),
                 array("company" => "border_express","product" => "border_express","fuel" => "23","extra" => "0"),
                 array("company" => "direct_freight","product" => "direct_freight","fuel" => "22","extra" => "0"),
+                array("company" => "pfl","product" => "pfl","fuel" => "4.3","extra" => "0")
     )		
   )	  
 
