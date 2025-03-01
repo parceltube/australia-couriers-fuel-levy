@@ -1,7 +1,5 @@
 #Australia Courirers Fuel Levy Surcharge 
-###### Update on 2022-08-20 (AEST)
-###### Update on 2022-09-02 (AEST)
-###### Update on 2023-01-02 (AEST)
+###### Update on 2025-03-01 (AEST)
 
 This Json File include Australia major couriers "Fuel Levy Surcharge" Precentage. 
 ## How to use 
@@ -11,27 +9,25 @@ https://raw.githubusercontent.com/parceltube/australia-couriers-fuel-levy/main/f
 For **ANY** recommendations please open in the issues
 
 Current list of Couriers and Latest Surcharge Are List Below.
-
-| Company | Sub Route/Products | Latest % | extra % | Period |
-|---------|--------------------|----------|---------|--------|
-| Australia Post | Australia Post | 10.8% |  | Monthly |
-|         | StarTrack Couriers | 10.8% |  | Monthly |
-| Aramex | Myfastway | 12% |  | Monthly |
-| Toll | Priority | 33.19% |  | Monthly |
-|  | Standard(IPEC) | 18.5% |  | Monthly |
-|  | Pallets(I&S) | 29.55% |  | Monthly |
-|  | AirExpress | 12.3% |  | Monthly |
-| Couriers Please |  | 25.2% | 10.5% | Monthly |
-| Sendle | Myfastway | 6.85% |  | Monthly |
-| Border Express |  | ? |  | Monthly |
-| Direct Freight|  | 21.6 |  | Monthly |
-| Hunter Express |  | 20% |  | Monthly |
-| Allied Express | Sameday Local | 15.9% |  | Monthly |
-| Allied Express | Interstate | 21.9% |  | Monthly |
-| DHL |  | 39.5% |  | Monthly |
-| SEKO |  | ? |  | Monthly |
-| Bonds |  | 15% |  | Monthly |
-| 4PX |  | 12% |  | Notice |
+| Company                     | Product/Service       | February 2025 | March 2025 |
+|-----------------------------|----------------------|---------------|------------|
+| **Australia Post**          | All services         | 5.2%          | 5.2%       |
+| **StarTrack**               | All services         | 5.2%          | 5.2%       |
+| **Aramex**                  | MyFastway            | 7.0%          | 7.6%       |
+| **Team Global Express**     | Palletised Express   | 15.26%        | 16.37%     |
+|                             | Express Parcels      | 9.75%         | 10.71%     |
+|                             | Road Express Parcels | 9.94%         | 11.18%     |
+| **CouriersPlease**          | Domestic services    | 26.1%         | 27.2%      |
+|                             | Extraordinary fuel charge | 7.2%      | 7.8%       |
+| **Sendle**                  | Domestic services    | 7.2%          | 7.7%       |
+|                             | Express services     | 12.5%         | 12.5%      |
+|                             | International services | 12.5%       | 12.5%      |
+| **PFL**                     | All services         | 3.5%          | 3.8%       |
+| **Hunter Express**          | All services         | 20.0%         | 20.0%      |
+| **Allied Express**          | Same Day Local       | 18.9%         | 18.9%      |
+|                             | Interstate           | 27.9%         | 27.9%      |
+| **Border Express**          | All services         | 23.0%         | 23.0%      |
+| **Direct Freight**          | All services         | 22.0%         | 22.0%      |
 
 
 
